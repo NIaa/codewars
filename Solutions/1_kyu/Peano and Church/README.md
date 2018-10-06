@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/peano-and-church/train/haskell>

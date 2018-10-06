@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/find-the-parity-outlier/train/cpp>

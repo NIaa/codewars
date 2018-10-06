@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/is-this-a-triangle/train/ruby>

@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/bash-basics-find-number-of-files-in-a-directory/train/shell>

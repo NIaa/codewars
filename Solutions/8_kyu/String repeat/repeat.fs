@@ -1,0 +1,1 @@
+let repeatStr n s = String.replicate n s

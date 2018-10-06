@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/is-my-friend-cheating/train/python>

@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/church-numbers-find-the-predecessor-and-subtract/train/haskell>

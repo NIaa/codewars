@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/you-only-need-one-beginner/train/python>

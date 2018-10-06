@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/sum-of-triangular-numbers/train/cpp>

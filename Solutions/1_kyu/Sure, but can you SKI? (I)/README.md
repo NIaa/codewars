@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/sure-but-can-you-ski-i/train/haskell>

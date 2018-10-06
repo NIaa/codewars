@@ -1,0 +1,3 @@
+(ns clojure.string-repeat)
+
+(defn repeat-str [n string] (apply str (repeat n string)))

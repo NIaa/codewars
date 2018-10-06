@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/perimeter-of-squares-in-a-rectangle/train/cpp>
