@@ -1,0 +1,1 @@
+def circleIntersection(a,b,r):import cmath as m;c=complex;o=2*m.acos(abs(c(*a)-c(*b))/r/2);return int((o-m.sin(o)).real*r*r)

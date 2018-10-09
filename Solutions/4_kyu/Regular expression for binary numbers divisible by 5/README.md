@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/regular-expression-for-binary-numbers-divisible-by-5>

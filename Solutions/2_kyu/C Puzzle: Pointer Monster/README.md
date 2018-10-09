@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/c-puzzle-pointer-monster>

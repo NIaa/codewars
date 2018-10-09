@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/count-ones-in-a-segment>

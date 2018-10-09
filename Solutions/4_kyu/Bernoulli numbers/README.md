@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/bernoulli-numbers-1>

@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/find-the-missing-term-in-an-arithmetic-progression>

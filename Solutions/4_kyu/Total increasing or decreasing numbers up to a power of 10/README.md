@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/total-increasing-or-decreasing-numbers-up-to-a-power-of-10>

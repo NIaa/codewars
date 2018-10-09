@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/xiang-qi-xiangqi-slash-chinese-chess-board-validator>
