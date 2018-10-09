@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/collect-tuition-sql-for-beginners-number-4/train/sql>

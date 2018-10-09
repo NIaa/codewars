@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/on-the-canadian-border-sql-for-beginners-number-2/train/sql>

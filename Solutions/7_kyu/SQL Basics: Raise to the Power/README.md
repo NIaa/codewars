@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/sql-basics-raise-to-the-power/train/sql>

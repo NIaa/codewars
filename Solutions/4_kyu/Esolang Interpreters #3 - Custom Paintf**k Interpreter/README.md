@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/esolang-interpreters-number-3-custom-paintf-star-star-k-interpreter>

@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/minimize-sum-of-array-array-series-number-1/python>

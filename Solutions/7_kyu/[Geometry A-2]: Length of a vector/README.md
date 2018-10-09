@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/geometry-a-2-length-of-a-vector>

@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/adults-only-sql-for-beginners-number-1/train/sql>
