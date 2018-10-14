@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/sql-basics-simple-min-slash-max/train/sql>

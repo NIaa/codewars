@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/easy-sql-square-root-and-log/train/sql>

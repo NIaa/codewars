@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/easy-sql-absolute-value-and-log-to-base/train/sql>

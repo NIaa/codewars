@@ -1,0 +1,1 @@
+select abs(number1), log(64,number2) as log from decimals

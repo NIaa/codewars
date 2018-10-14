@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/sql-with-lotr-elven-wildcards/train/sql>
