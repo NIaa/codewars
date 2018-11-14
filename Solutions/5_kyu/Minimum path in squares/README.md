@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/minimum-path-in-squares>

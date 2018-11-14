@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/last-digit-of-a-large-number>

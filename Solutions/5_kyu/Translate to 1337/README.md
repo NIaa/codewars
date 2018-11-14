@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/translate-to-1337>

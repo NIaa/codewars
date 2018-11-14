@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/conways-game-of-life-on-a-toroidal-array>

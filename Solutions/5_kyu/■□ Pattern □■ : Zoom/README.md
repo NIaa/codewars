@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/number-number-pattern-number-number-zoom>

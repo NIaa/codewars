@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/each-n-th-element-of-list/train/haskell>
