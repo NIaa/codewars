@@ -1,1 +1,5 @@
 *.swp
+\#*\#
+.vscode
+*/.DS_Store
+.vscode
