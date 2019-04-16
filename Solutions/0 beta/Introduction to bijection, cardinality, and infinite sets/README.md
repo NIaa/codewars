@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/introduction-to-bijection-cardinality-and-infinite-sets/train/agda>

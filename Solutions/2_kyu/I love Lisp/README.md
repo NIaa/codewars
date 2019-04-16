@@ -1,0 +1,1 @@
+<https://preview.codewars.com/kata/i-love-lisp/train/haskell>

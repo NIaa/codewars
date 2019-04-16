@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/a-plus-a-equals-b-plus-b-so-a-equals-b-prove-it/train/agda>

@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/reach-the-size-that-lies-across-this-new-divide/train/agda>

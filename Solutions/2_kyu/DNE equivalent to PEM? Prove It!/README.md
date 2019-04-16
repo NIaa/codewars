@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/dne-equivalent-to-pem-prove-it/train/haskell>

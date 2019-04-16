@@ -1,0 +1,1 @@
+<https://preview.codewars.com/kata/writing-applicative-parsers-from-scratch/train/haskell>

@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/program-verification-number-1-the-sum-of-an-arithmetic-progression/train/agda>

@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/theorem-proving-hello-world-prove-a-plus-0-equals-a-and-0-plus-a-equals-a/train/agda>

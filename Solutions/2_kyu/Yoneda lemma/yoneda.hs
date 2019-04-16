@@ -38,6 +38,8 @@ class Contravariant f where
 
 to' :: Contravariant f => Nat (CoHom a) f -> f a
 to' f = f (Op id)
+-- to' :: (forall x. Op a x -> f x) -> f a
+-- 
 
 from' :: Contravariant f => f a -> Nat (CoHom a) f
 from' a = \f -> contramap (getOp f) a

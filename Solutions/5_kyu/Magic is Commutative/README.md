@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/magic-is-commutative/train/agda>

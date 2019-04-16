@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/flatten-and-sort-an-array/train/haskell>
