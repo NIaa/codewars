@@ -1,3 +1,4 @@
+// Can this be even more rediculous?
 function toLeet(str) {
   var ret = "";
   var counter = [];for(var i = 0; i < 26; i++) counter[i] = 0;

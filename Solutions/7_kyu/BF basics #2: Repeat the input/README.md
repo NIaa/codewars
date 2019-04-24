@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/bf-basics-number-2-repeat-the-input/train/bf>

@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/mystery-function-number-1/train/python>

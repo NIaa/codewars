@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/modular-operations-on-finite-data-type/train/agda>

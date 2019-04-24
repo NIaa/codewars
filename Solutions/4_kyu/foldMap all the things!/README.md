@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/foldmap-all-the-things/train/haskell>
