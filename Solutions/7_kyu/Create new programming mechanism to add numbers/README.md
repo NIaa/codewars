@@ -1,0 +1,1 @@
+<https://www.codewars.com/kata/create-new-programming-mechanism-to-add-numbers/train/rust>
